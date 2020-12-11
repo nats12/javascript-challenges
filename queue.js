@@ -1,3 +1,7 @@
+///
+/// Implement a Queue (because why not)
+///
+
 class Queue {
     constructor() {
         this.queue = [];

@@ -1,3 +1,7 @@
+///
+/// Given a string str, return true or false depending on whether it is a palindrome
+///
+
 const isAPalindrome = (str) => {
 
     

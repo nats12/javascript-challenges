@@ -1,3 +1,8 @@
+///
+/// Given input nodes and a start and end point, find the shortest path
+/// from start to end
+///
+
 const START = 0;
 const END = 5;
 

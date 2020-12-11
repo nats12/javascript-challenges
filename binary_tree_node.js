@@ -1,3 +1,7 @@
+///
+/// Create a Binary Node (just because)
+///
+
 class BinaryTreeNode {
     constructor(data) {
         this.data = data;

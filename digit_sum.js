@@ -1,3 +1,9 @@
+///
+/// Sum all the digits in a given number
+/// CONSTRAINT: You can't convert the number into a string 😉
+///
+
+
 const digitSum = (digit) => {
 
     if(digit === 0) {
@@ -6,9 +12,9 @@ const digitSum = (digit) => {
     
     const firstPlace = digit % 10;
     const trimmedItems = Math.floor(digit / 10);
-    const remainingItems = twoSum(trimmedItems);
+    const remainingItems = digitSum(trimmedItems);
 
     return remainingItems + firstPlace;
 }
 
-console.log(twoSum(2323));
+console.log(digitSum(2323));

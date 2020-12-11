@@ -1,6 +1,9 @@
-/**
- * Memoized Fibonacci
- */
+///
+/// Find the nth Fibonacci number
+/// Implement a memoized version to the standard solution to reduce number of operations
+///
+
+
 const memo = {};
 
 const memoFibonacci = (n) => {

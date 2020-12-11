@@ -1,3 +1,8 @@
+///
+/// Given a sorted input, perform a binary search to find the index of n
+///
+
+
 
 const binarySearch = (input, n) => {
 
