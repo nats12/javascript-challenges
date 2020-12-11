@@ -4,7 +4,7 @@ A collection of solutions to popular interview JavaScript challenges.
 
 
 - [Binary Search](https://github.com/nats12/javascript-challenges/blob/main/binary_search.js)
-- [Create a Binary Tree Node](https://github.com/nats12/javascript-challenges/blob/main/binary_tree_node.js)
+- [Implement a Binary Tree Node](https://github.com/nats12/javascript-challenges/blob/main/binary_tree_node.js)
 - [Digit Sum](https://github.com/nats12/javascript-challenges/blob/main/digit_sum.js)
 - [Find the nth Fibonacci](https://github.com/nats12/javascript-challenges/blob/main/fibonacci.js)
 - [Find the nth Fibonacci (*memoized*)](https://github.com/nats12/javascript-challenges/blob/main/memoized_fibonacci.js)
